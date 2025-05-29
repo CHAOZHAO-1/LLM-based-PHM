@@ -1,5 +1,5 @@
 
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250427-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-38-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-202529-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-40-orange)
 
 ### **Review/Perspective Papers**
 
@@ -61,6 +61,14 @@
 ### **Research Papers**
 
 #### 2025
+
+
+- **DiagLLM: multimodal reasoning with large language model for explainable bearing fault diagnosis**  
+  [SCIS 2025](https://link.springer.com/article/10.1007/s11432-024-4333-7)
+
+
+- **Graph Structure-Enhanced Large Language Model for Optical Network Fault Diagnosis: An Explainable  Alarm Root Cause Localization Approach**  
+  [IoT 2025](https://ieeexplore.ieee.org/abstract/document/11012654)
 
 
 
