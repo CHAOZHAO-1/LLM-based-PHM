@@ -6,7 +6,7 @@
 #### 2025
 
 
-- **An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges**    [MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500384X)
+- **An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges**    [[MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500384X)]
 
 - **A Survey on Potentials, Pathways, and Challenges of Large Language Models in New-Generation Intelligent Manufacturing**    [RCIM 2025](https://www.sciencedirect.com/science/article/pii/S0736584524001704)
 
