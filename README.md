@@ -34,13 +34,13 @@
 ### **Evaluation Papers**
 
 #### 2024
-- **Evaluating the Performance of ChatGPT in the Automation of Maintenance Recommendations for Prognostics and Health Management**    [Conference 2024](http://papers.phmsociety.org/index.php/phmconf/article/view/3487)
+- **Evaluating the Performance of ChatGPT in the Automation of Maintenance Recommendations for Prognostics and Health Management**  [  [Conference 2024](http://papers.phmsociety.org/index.php/phmconf/article/view/3487)]
 
-- **Multimodal Large Language Model-Based Fault Detection and Diagnosis in the Context of Industry 4.0**    [Preprint 2024](https://www.preprints.org/manuscript/202411.1036/v1)
+- **Multimodal Large Language Model-Based Fault Detection and Diagnosis in the Context of Industry 4.0**    [[Preprint 2024](https://www.preprints.org/manuscript/202411.1036/v1)]
 
-- **SAFELLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance**    [Arixv 2024](https://arxiv.org/abs/2410.10852)
+- **SAFELLM: Domain-Specific Safety Monitoring for Large Language Models: A Case Study of Offshore Wind Maintenance**   [ [Arixv 2024](https://arxiv.org/abs/2410.10852)]
 
-- **Empirical Study on Fine-Tuning Pre-Trained Large Language Models for Fault Diagnosis of Complex Systems**    [RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400454X)
+- **Empirical Study on Fine-Tuning Pre-Trained Large Language Models for Fault Diagnosis of Complex Systems**   [ [RESS 2024](https://www.sciencedirect.com/science/article/pii/S095183202400454X)]
 
 ---
 
