@@ -1,8 +1,12 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-2025628-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-43-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250826-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-46-orange)
 
 ### Review/Perspective Papers
 
 #### 2025
+
+*  Large language models for PHM: a review of  optimization techniques and applications   \[[AIS 2025](https://link.springer.com/article/10.1007/s43684-025-00100-5)]
+
+*  Large Models for Machine Monitoring and Fault Diagnostics:  Opportunities, Challenges, and Future Direction    \[[JDMD 2025](https://ojs.istp-press.com/dmd/article/view/832)]
 
 * An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges    \[[MSSP 2025](https://www.sciencedirect.com/science/article/abs/pii/S088832702500384X)]
 
@@ -29,6 +33,11 @@
 * How Can Large Language Models Help Humans in Design and Manufacturing?   \[[Arixv 2023](https://arxiv.org/abs/2307.14377)]
 
 ### Evaluation Papers
+
+#### 2025
+
+
+* PHM-Bench: A Domain-Specific Benchmarking Framework for Systematic Evaluation of Large Models in Prognostics and Health Management    \[[Arixv 2025](https://arxiv.org/abs/2508.02490)]
 
 #### 2024
 
