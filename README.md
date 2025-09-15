@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250826-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-46-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250915-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-47-orange)
 
 ### Review/Perspective Papers
 
@@ -54,6 +54,9 @@
 ### Research Papers
 
 #### 2025
+
+
+*  FD-MVLLM: Fault diagnosis based on multimodal vibration data and large language model for bearing system    \[[MSSP 2025](https://www.sciencedirect.com/science/article/pii/S0888327025009276)]
 
 * AeroGPT: Leveraging Large-Scale Audio Model for  Aero-Engine Bearing Fault Diagnosis    \[[Arixv 2025](https://arxiv.org/pdf/2506.16225)]
 
