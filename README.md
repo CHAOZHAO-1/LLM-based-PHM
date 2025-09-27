@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250915-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-47-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250927-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-50-orange)
 
 ### Review/Perspective Papers
 
@@ -54,6 +54,15 @@
 ### Research Papers
 
 #### 2025
+
+
+*  Large model for fault diagnosis of industrial equipment based on a  knowledge graph construction   \[[ASC 2025](https://www.sciencedirect.com/science/article/pii/S1568494625012499)]
+
+
+* A new large model with multi-scale feature fusion for fault diagnosis based  on unified time series model    \[[ASC 2025](https://www.sciencedirect.com/science/article/pii/S1568494625012542)]
+
+
+* Semi-Supervised Prefix Tuning of Large Language Models for  Industrial Fault Diagnosis with Big Data    \[[Big Data Mining and Analytics 2025](https://ieeexplore.ieee.org/abstract/document/11164458)]
 
 
 *  FD-MVLLM: Fault diagnosis based on multimodal vibration data and large language model for bearing system    \[[MSSP 2025](https://www.sciencedirect.com/science/article/pii/S0888327025009276)]
