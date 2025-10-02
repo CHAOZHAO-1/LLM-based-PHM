@@ -1,8 +1,29 @@
 # ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250927-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-50-orange)
 
-### Review/Perspective Papers
 
-#### 2025
+## 目录 (Table of Contents)
+
+- [Review/Perspective Papers](#reviewperspective-papers)  
+  - [2025](#2025-review)  
+  - [2024](#2024-review)  
+  - [2023](#2023-review)  
+- [Evaluation Papers](#evaluation-papers)  
+  - [2025](#2025-evaluation)  
+  - [2024](#2024-evaluation)  
+- [Research Papers](#research-papers)  
+  - [2025](#2025-research)  
+  - [2024](#2024-research)  
+- [Large-Small Model Collaboration](#large-small-model-collaboration)  
+  - [2024](#2024-large-small)  
+- [Time Series LLMs](#time-series-llms)  
+
+---
+
+
+
+### Review/Perspective Papers  <a name="reviewperspective-papers"></a>
+
+#### 2025 <a name="2025-review"></a>
 
 *  Large language models for PHM: a review of  optimization techniques and applications   \[[AIS 2025](https://link.springer.com/article/10.1007/s43684-025-00100-5)]
 
@@ -14,7 +35,7 @@
 
 * Large Scale Foundation Models for Intelligent Manufacturing Applications: A Survey    \[[JIM 2025](https://link.springer.com/article/10.1007/s10845-024-02536-7)]
 
-#### 2024
+#### 2024 <a name="2024-review"></a>
 
 * Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management    \[[Arixv 2024](https://arxiv.org/abs/2312.14945)]
 
@@ -24,7 +45,7 @@
 
 * Generative Artificial Intelligence and Data Augmentation for Prognostic and Health Management: Taxonomy, Progress, and Prospects    \[[ESWA 2024](https://www.sciencedirect.com/science/article/pii/S0957417424013782)]
 
-#### 2023
+#### 2023 <a name="2023-review"></a>
 
 * ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps    \[[RESS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0951832023007640)]
 
@@ -32,14 +53,14 @@
 
 * How Can Large Language Models Help Humans in Design and Manufacturing?   \[[Arixv 2023](https://arxiv.org/abs/2307.14377)]
 
-### Evaluation Papers
+### Evaluation Papers <a name="evaluation-papers"></a>
 
-#### 2025
+#### 2025 <a name="2025-evaluation"></a>
 
 
 * PHM-Bench: A Domain-Specific Benchmarking Framework for Systematic Evaluation of Large Models in Prognostics and Health Management    \[[Arixv 2025](https://arxiv.org/abs/2508.02490)]
 
-#### 2024
+#### 2024 <a name="2024-evaluation"></a>
 
 * Evaluating the Performance of ChatGPT in the Automation of Maintenance Recommendations for Prognostics and Health Management    \[[Conference 2024](http://papers.phmsociety.org/index.php/phmconf/article/view/3487)]
 
@@ -51,9 +72,9 @@
 
 ---
 
-### Research Papers
+### Research Papers <a name="research-papers"></a>
 
-#### 2025
+#### 2025 <a name="2025-research"></a>
 
 
 *  Large model for fault diagnosis of industrial equipment based on a  knowledge graph construction   \[[ASC 2025](https://www.sciencedirect.com/science/article/pii/S1568494625012499)]
@@ -120,7 +141,7 @@
 
 * Large Language Model Assisted Fine-Grained Knowledge Graph Construction for Robotic Fault Diagnosis    \[[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625000278)]
 
-#### 2024
+#### 2024 <a name="2024-research"></a>
 
 * Empowering Digital Twins with Large Language Models for Global Temporal Feature Learning    \[[JMS 2024](https://www.sciencedirect.com/science/article/pii/S0278612524000372)]
 
@@ -152,7 +173,7 @@
 
 ---
 
-### Large-Small Model Collaboration
+### Large-Small Model Collaboration <a name="large-small-model-collaboration"></a>
 
 #### 2024
 
@@ -160,7 +181,7 @@
 
 ---
 
-### Time Series LLMs
+### Time Series LLMs <a name="time-series-llms"></a>
 
 For more information, please refer to this [repository](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM).
 
