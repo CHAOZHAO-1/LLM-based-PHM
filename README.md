@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250927-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-50-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251025-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-53-orange)
 
 
 ## 目录 (Table of Contents)
@@ -76,6 +76,11 @@
 
 #### 2025 <a name="2025-research"></a>
 
+* RmGPT: A Foundation Model With Generative Pretrained Transformer for Fault Diagnosis and Prognosis in Rotating Machinery    \[[IEEE IoT 2025](https://doi.org/10.1109/JIOT.2025.3580823)]
+
+* ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset    \[[ICML 2025](https://proceedings.mlr.press/)]
+
+* Leveraging large self-supervised time-series models for transferable diagnosis in cross-aircraft type Bleed Air System    \[[AEI 2025](https://doi.org/10.1016/j.aei.2025.103275)]
 
 *  Large model for fault diagnosis of industrial equipment based on a  knowledge graph construction   \[[ASC 2025](https://www.sciencedirect.com/science/article/pii/S1568494625012499)]
 
