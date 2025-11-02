@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250927-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-50-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251102-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-53-orange)
 
 
 ## 目录 (Table of Contents)
@@ -75,6 +75,12 @@
 ### Research Papers <a name="research-papers"></a>
 
 #### 2025 <a name="2025-research"></a>
+
+*  SYN-DIAG: AN LLM-BASED SYNERGISTIC FRAMEWORK FOR  GENERALIZABLE FEW-SHOT FAULT DIAGNOSIS ON THE EDGE   \[[Arixv 2025](https://arxiv.org/abs/2510.05733)]
+
+*  Virtual sample diffusion generation method guided by large language model-generated knowledge for enhancing information completeness and zero-shot fault diagnosis in building thermal systems   \[[Journal of Zhejiang University-SCIENCE A 2025](https://link.springer.com/article/10.1631/jzus.A2400560)]
+
+*  Deep digital twin-powered large vision-language model for multi-scenario industrial fault diagnosis   \[[AEI 2025](https://www.sciencedirect.com/science/article/abs/pii/S1474034625008900)]
 
 
 *  Large model for fault diagnosis of industrial equipment based on a  knowledge graph construction   \[[ASC 2025](https://www.sciencedirect.com/science/article/pii/S1568494625012499)]
