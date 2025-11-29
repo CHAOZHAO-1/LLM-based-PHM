@@ -1,4 +1,6 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251102-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-53-orange)
+![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.LLM-based-PHM&color=blue&style=flat-square)
+
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251129-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-59-orange)
 
 
 ## 目录 (Table of Contents)
@@ -75,6 +77,22 @@
 ### Research Papers <a name="research-papers"></a>
 
 #### 2025 <a name="2025-research"></a>
+
+
+*  Large language model to assist data augmentation in soft contrastive  learning for few-shot machinery fault diagnosis   \[[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625009711)]
+
+* Leveraging BART for Intelligent Fault Diagnosis of Marine Diesel Engines: A Language Model Approach   \[[ERE 2025](https://iopscience.iop.org/article/10.1088/2631-8695/ae2387/meta)]
+
+*LMPHM: Fault Inference Diagnosis Based on Causal Network and Large Language Model-Enhanced Knowledge Graph Network   \[[CJME 2025](https://www.sciencedirect.com/science/article/pii/S100093452500166X)]
+
+
+*LMulti-head memory large language model for predicting degradation trends of gearbox under non-stationary excitation   \[[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224125031513)]
+
+*LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components   \[[Arixv 2025](https://arxiv.org/pdf/2511.10394)]
+
+
+*PHM–GPT: A Large Language Model for Prognostics and Health Management   \[[Engineering 2025](https://www.sciencedirect.com/science/article/pii/S2095809925006745)]
+
 
 *  SYN-DIAG: AN LLM-BASED SYNERGISTIC FRAMEWORK FOR  GENERALIZABLE FEW-SHOT FAULT DIAGNOSIS ON THE EDGE   \[[Arixv 2025](https://arxiv.org/abs/2510.05733)]
 
