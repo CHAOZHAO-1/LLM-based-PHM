@@ -1,6 +1,4 @@
-![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.LLM-based-PHM&color=blue&style=flat-square)
-
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20251129-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-59-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260117-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-62-orange)
 
 
 ## 目录 (Table of Contents)
@@ -74,9 +72,22 @@
 
 ---
 
+
+
 ### Research Papers <a name="research-papers"></a>
 
 #### 2025 <a name="2025-research"></a>
+
+
+
+*  FR-LLM: Multi-task large language model with signal-to-text encoding and adaptive optimization for joint fault diagnosis and RUL prediction   \[[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025012906)]
+
+
+*  Knowledge graph-driven fault diagnosis for aviation equipment: Integrating improved joint extraction with large language model   \[[JIII 2025](https://www.sciencedirect.com/science/article/abs/pii/S2452414X25002626)]
+
+
+*  Multimodal data-enabled large model for machine fault diagnosis towards intelligent operation and maintenance   \[[JIII 2025](https://www.sciencedirect.com/science/article/abs/pii/S2452414X26000026)]
+
 
 
 *  Large language model to assist data augmentation in soft contrastive  learning for few-shot machinery fault diagnosis   \[[AEI 2025](https://www.sciencedirect.com/science/article/pii/S1474034625009711)]
@@ -84,6 +95,8 @@
 * Leveraging BART for Intelligent Fault Diagnosis of Marine Diesel Engines: A Language Model Approach   \[[ERE 2025](https://iopscience.iop.org/article/10.1088/2631-8695/ae2387/meta)]
 
 *LMPHM: Fault Inference Diagnosis Based on Causal Network and Large Language Model-Enhanced Knowledge Graph Network   \[[CJME 2025](https://www.sciencedirect.com/science/article/pii/S100093452500166X)]
+
+
 
 
 *LMulti-head memory large language model for predicting degradation trends of gearbox under non-stationary excitation   \[[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224125031513)]
