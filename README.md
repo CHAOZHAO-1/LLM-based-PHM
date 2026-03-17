@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260206-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-62-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260317-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-67-orange)
 
 
 ## 目录 (Table of Contents)
@@ -11,6 +11,7 @@
   - [2025](#2025-evaluation)  
   - [2024](#2024-evaluation)  
 - [Research Papers](#research-papers)  
+  - [2026](#2026-research)  
   - [2025](#2025-research)  
   - [2024](#2024-research)  
 - [Large-Small Model Collaboration](#large-small-model-collaboration)  
@@ -20,8 +21,8 @@
 ---
 
 
-
 ### Review/Perspective Papers  <a name="reviewperspective-papers"></a>
+
 
 #### 2025 <a name="2025-review"></a>
 
@@ -76,12 +77,24 @@
 
 ### Research Papers <a name="research-papers"></a>
 
+#### 2026 <a name="2026-research"></a>
+
+
+* Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools  \[[CIE 2026](https://www.sciencedirect.com/science/article/pii/S036083522600080X)]
+
+* Fault decoupling in hydraulic systems: A large language model-assisted dual-stream multi-task learning approach   \[[Neurocomputing 2026](https://www.sciencedirect.com/science/article/pii/S0925231226004534)]
+
+* Knowledge-guided multimodal LLM with mixture-of-experts for interpretable defect detection and fault diagnosis: An industrial AI copilot   \[[JMS 2026](https://www.sciencedirect.com/science/article/pii/S0278612526000464)]
+
+* Knowledge Graph Enhanced Large Language Model Framework for Causal Chain Reasoning in Industrial Fault Diagnosis   \[[ESWA 2026](https://www.sciencedirect.com/science/article/pii/S0957417426009401)]
 
 
 *  Integrating Large Language Model and Lightweight Network for Robust Multimodal Fault Diagnosis in Wheeled Robots   \[[T-MECH 2026](https://ieeexplore.ieee.org/abstract/document/11353350)]
 
 
+
 #### 2025 <a name="2025-research"></a>
+
 
 
 *  FR-LLM: Multi-task large language model with signal-to-text encoding and adaptive optimization for joint fault diagnosis and RUL prediction   \[[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025012906)]
