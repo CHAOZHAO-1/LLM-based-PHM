@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260408-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-71-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260423-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-72-orange)
 
 
 ## 目录 (Table of Contents)
@@ -82,12 +82,13 @@ A review on large language models for industrial embodied intelligence [AEI 2026
 
 #### 2026 <a name="2026-research"></a>
 
-* Zero-Shot Fault Diagnosis via LLM-Guided Complexity-Aware Fuzzy Boundary Learning [TII 2026]
+* A collaborative approach based on large language model and knowledge graphs for information integration towards smart manufacturing \[[EAAI 2026](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010675)]
 
-* Large language model-based fault diagnosis for lithium-ion batteries in cloud-edge systems [CPRS 2026]
+* Zero-Shot Fault Diagnosis via LLM-Guided Complexity-Aware Fuzzy Boundary Learning \[[TII 2026](https://ieeexplore.ieee.org/abstract/document/11441425)]
 
-* Towards generalizable fault diagnosis via LLM-driven hierarchical cross-modal alignment [KBS 2026]
+* Large language model-based fault diagnosis for lithium-ion batteries in cloud-edge systems \[[CPRS 2026](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00116-5)]
 
+* Towards generalizable fault diagnosis via LLM-driven hierarchical cross-modal alignment \[[KBS 2026](https://www.sciencedirect.com/science/article/abs/pii/S0950705126006234)]
 
 * Industrial knowledge-enhanced fault diagnosis method: Integrating LLM and knowledge graph for fault reasoning and maintenance recommendation in CNC machine tools  \[[CIE 2026](https://www.sciencedirect.com/science/article/pii/S036083522600080X)]
 
