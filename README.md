@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260423-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-72-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260523-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-73-orange)
 
 
 ## 目录 (Table of Contents)
@@ -81,6 +81,10 @@ A review on large language models for industrial embodied intelligence [AEI 2026
 ### Research Papers <a name="research-papers"></a>
 
 #### 2026 <a name="2026-research"></a>
+
+
+* XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models\[[AEI 2026](https://www.sciencedirect.com/science/article/abs/pii/S1474034626004180)]
+
 
 * A collaborative approach based on large language model and knowledge graphs for information integration towards smart manufacturing \[[EAAI 2026](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010675)]
 
