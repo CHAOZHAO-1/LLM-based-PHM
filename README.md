@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260523-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-73-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260703-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-79-orange)
 
 
 ## 目录 (Table of Contents)
@@ -81,6 +81,21 @@ A review on large language models for industrial embodied intelligence [AEI 2026
 ### Research Papers <a name="research-papers"></a>
 
 #### 2026 <a name="2026-research"></a>
+
+
+
+Signal–text fusion multimodal large language model for few-shot fault  diagnosis of industrial robots
+
+ComfortLLM: Compatible Multi-modality Fusion Oriented Large Language Model for Industrial Fault Diagnosis with Diverse Data
+
+An adaptive industrial large language model for mechanical fault diagnosis under variable operating conditions
+
+FM-LLM: A Lightweight Multimodal LLM with Simulation-Augmented Data for Mechanical Fault Diagnosis
+
+EC-Distill-ZeroDiag: a cloud-edge collaborative framework for zero-shot industrial fault diagnosis via large language model distillation
+
+Case-Driven Fault Diagnosis with Advanced Hallucination Mitigation in Large Language Models: A Way Towards Practical Applications
+
 
 
 * XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models\[[AEI 2026](https://www.sciencedirect.com/science/article/abs/pii/S1474034626004180)]
