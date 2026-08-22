@@ -132,6 +132,11 @@
 
 #### 2025 <a name="2025-research"></a>
 
+* RmGPT: A Foundation Model With Generative Pretrained Transformer for Fault Diagnosis and Prognosis in Rotating Machinery    \[[IEEE IoT 2025](https://doi.org/10.1109/JIOT.2025.3580823)]
+
+* ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset    \[[ICML 2025](https://proceedings.mlr.press/)]
+
+* Leveraging large self-supervised time-series models for transferable diagnosis in cross-aircraft type Bleed Air System    \[[AEI 2025](https://doi.org/10.1016/j.aei.2025.103275)]
 
 
 *  FR-LLM: Multi-task large language model with signal-to-text encoding and adaptive optimization for joint fault diagnosis and RUL prediction   \[[RESS 2025](https://www.sciencedirect.com/science/article/pii/S0951832025012906)]
