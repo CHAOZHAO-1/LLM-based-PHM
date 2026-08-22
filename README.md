@@ -1,4 +1,4 @@
-# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260703-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-79-orange)
+# ![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20260822-blue)  ![Paper number](https://img.shields.io/badge/Paper%20Number-83-orange)
 
 
 ## 目录 (Table of Contents)
@@ -25,7 +25,9 @@
 
 #### 2026 <a name="2026-review"></a>
 
-A review on large language models for industrial embodied intelligence [AEI 2026]
+*  A review on large language models for industrial embodied intelligence \[[AEI 2026](https://www.sciencedirect.com/science/article/pii/S1474034626002946?casa_token=ruu6-MRA7SIAAAAA:3QTwtMtFVnLXjCszKUt_D_XNc3EjkopYejTDZZTaif7s3e27xKMhdSLWj-z7JFtkxBeFNoJ-WEU)]
+
+*  Large language models in intelligent manufacturing and mechanical engineering: a review of robotics, fault diagnosis, design, and engineering knowledge workflows \[[JIM 2026](https://link.springer.com/article/10.1007/s10845-026-02927-y)]
 
 #### 2025 <a name="2025-review"></a>
 
@@ -82,26 +84,32 @@ A review on large language models for industrial embodied intelligence [AEI 2026
 
 #### 2026 <a name="2026-research"></a>
 
+* Digital twin-driven intelligent structural fault diagnosis and decision-making for earth-rock dams using large language models  \[[ES 2026](https://www.sciencedirect.com/science/article/pii/S0141029626012125)]  
 
 
-Signal–text fusion multimodal large language model for few-shot fault  diagnosis of industrial robots
+* GMPF-LLM: gateless multi-physical fusion large language model for fault diagnosis \[[ERE 2026](https://iopscience.iop.org/article/10.1088/2631-8695/ae86b9/meta)]  
 
-ComfortLLM: Compatible Multi-modality Fusion Oriented Large Language Model for Industrial Fault Diagnosis with Diverse Data
+* Dynamic knowledge graph enhanced large language model with cascade relation extraction optimized for aviation equipment fault diagnosis \[[EAAI 2026](https://www.sciencedirect.com/science/article/pii/S0952197626020464)]  
 
-An adaptive industrial large language model for mechanical fault diagnosis under variable operating conditions
+* Signal–text fusion multimodal large language model for few-shot fault  diagnosis of industrial robots \[[RCIM 2026](https://www.sciencedirect.com/science/article/pii/S0736584526001882?casa_token=1h1m-aMlxUoAAAAA:M_ukNAoicNQe2osb2DN1pEU3iVr-CQxoqeRHRAex2V8PSmowvENtAA0XZapF71FTzHhlphAB9k0)]  
+  
 
-FM-LLM: A Lightweight Multimodal LLM with Simulation-Augmented Data for Mechanical Fault Diagnosis
+ 
+* ComfortLLM: Compatible Multi-modality Fusion Oriented Large Language Model for Industrial Fault Diagnosis with Diverse Data \[[IOT 2026](https://ieeexplore.ieee.org/abstract/document/11569748)]  
 
-EC-Distill-ZeroDiag: a cloud-edge collaborative framework for zero-shot industrial fault diagnosis via large language model distillation
+* An adaptive industrial large language model for mechanical fault diagnosis under variable operating conditions \[[AEI 2026](https://www.sciencedirect.com/science/article/pii/S1474034626005136?casa_token=p6gsoKqIZy0AAAAA:G1j9fJGMRJyu4SN7Lc2iDR4TyAJvZSdwmE5Rsdxt_LR5eCzJUtIxc4O5aPmr1YnvwgWwFIM57jE)]  
 
-Case-Driven Fault Diagnosis with Advanced Hallucination Mitigation in Large Language Models: A Way Towards Practical Applications
+* FM-LLM: A Lightweight Multimodal LLM with Simulation-Augmented Data for Mechanical Fault Diagnosis \[[CJME 2026](https://www.sciencedirect.com/science/article/pii/S1000934526001227)]  
+
+* EC-Distill-ZeroDiag: a cloud-edge collaborative framework for zero-shot industrial fault diagnosis via large language model distillation\[[JIM 2026](https://link.springer.com/article/10.1007/s10845-026-02897-1)]  
+
+* Case-Driven Fault Diagnosis with Advanced Hallucination Mitigation in Large Language Models: A Way Towards Practical Applications\[[CJME 2026](https://www.sciencedirect.com/science/article/pii/S1000934526001203)]  
 
 
+* XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models\[[AEI 2026](https://www.sciencedirect.com/science/article/abs/pii/S1474034626004180)]  
 
-* XFD-LVLM: An explainable multimodal framework for aviation hydraulic pump intelligent fault diagnosis with large Vision-Language models\[[AEI 2026](https://www.sciencedirect.com/science/article/abs/pii/S1474034626004180)]
 
-
-* A collaborative approach based on large language model and knowledge graphs for information integration towards smart manufacturing \[[EAAI 2026](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010675)]
+* A collaborative approach based on large language model and knowledge graphs for information integration towards smart manufacturing \[[EAAI 2026](https://www.sciencedirect.com/science/article/abs/pii/S0952197626010675)]  
 
 * Zero-Shot Fault Diagnosis via LLM-Guided Complexity-Aware Fuzzy Boundary Learning \[[TII 2026](https://ieeexplore.ieee.org/abstract/document/11441425)]
 
