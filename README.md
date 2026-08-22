@@ -148,20 +148,17 @@
 
 * Leveraging BART for Intelligent Fault Diagnosis of Marine Diesel Engines: A Language Model Approach   \[[ERE 2025](https://iopscience.iop.org/article/10.1088/2631-8695/ae2387/meta)]
 
-*LMPHM: Fault Inference Diagnosis Based on Causal Network and Large Language Model-Enhanced Knowledge Graph Network   \[[CJME 2025](https://www.sciencedirect.com/science/article/pii/S100093452500166X)]
+*  LMPHM: Fault Inference Diagnosis Based on Causal Network and Large Language Model-Enhanced Knowledge Graph Network   \[[CJME 2025](https://www.sciencedirect.com/science/article/pii/S100093452500166X)]
+
+*  LMulti-head memory large language model for predicting degradation trends of gearbox under non-stationary excitation   \[[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224125031513)]  
+
+*  LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components   \[[Arixv 2025](https://arxiv.org/pdf/2511.10394)]  
 
 
+*  PHM–GPT: A Large Language Model for Prognostics and Health Management   \[[Engineering 2025](https://www.sciencedirect.com/science/article/pii/S2095809925006745)]    
 
 
-*LMulti-head memory large language model for predicting degradation trends of gearbox under non-stationary excitation   \[[Measurement 2025](https://www.sciencedirect.com/science/article/pii/S0263224125031513)]
-
-*LLM-YOLOMS: Large Language Model-based Semantic Interpretation and Fault Diagnosis for Wind Turbine Components   \[[Arixv 2025](https://arxiv.org/pdf/2511.10394)]
-
-
-*PHM–GPT: A Large Language Model for Prognostics and Health Management   \[[Engineering 2025](https://www.sciencedirect.com/science/article/pii/S2095809925006745)]
-
-
-*  SYN-DIAG: AN LLM-BASED SYNERGISTIC FRAMEWORK FOR  GENERALIZABLE FEW-SHOT FAULT DIAGNOSIS ON THE EDGE   \[[Arixv 2025](https://arxiv.org/abs/2510.05733)]
+*  SYN-DIAG: AN LLM-BASED SYNERGISTIC FRAMEWORK FOR  GENERALIZABLE FEW-SHOT FAULT DIAGNOSIS ON THE EDGE   \[[Arixv 2025](https://arxiv.org/abs/2510.05733)]  
 
 *  Virtual sample diffusion generation method guided by large language model-generated knowledge for enhancing information completeness and zero-shot fault diagnosis in building thermal systems   \[[Journal of Zhejiang University-SCIENCE A 2025](https://link.springer.com/article/10.1631/jzus.A2400560)]
 
